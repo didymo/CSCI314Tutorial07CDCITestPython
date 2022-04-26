@@ -1,4 +1,4 @@
-# CSCI314Tutorial05TestPython
+# CSCI314Tutorial07CDCITestPython
 
 A very basic unit test example based on the Java example from Lectures
 
@@ -18,3 +18,6 @@ source venv/bin/activate
 To run the tests run:
 
 python -m pytest test/
+
+
+### Then setup GitHub Actions
